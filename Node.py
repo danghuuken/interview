@@ -1,0 +1,4 @@
+class Node{
+	data = null
+	
+}
